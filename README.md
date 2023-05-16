@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @alfaszz
-- 👀 I’m interested in programming & coding
-- 🌱 I’m currently learning dart for mobile app development
+- 👋 I’m @alfaszz
+- 👀 Interested in programming & coding
+- 🌱 Currently working on multiple development projects
 - 📫 Reach me on Instagram @alfaszz 
 
 <!---
