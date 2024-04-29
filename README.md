@@ -1,6 +1,7 @@
 # Hi there, I'm Mohammed Alfaz! 👋
 
 I'm a Flutter developer at [First Logic Meta Lab](https://firstlogicmetalab.com/) with a passion for crafting mobile applications for both Android and iOS platforms.
+
 I specialize in utilizing Flutter to develop cross-platform mobile, web, and Windows applications.
 
 ## About Me
